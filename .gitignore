@@ -1,0 +1,12 @@
+# Data Folder
+data/
+csv/
+pdf/
+html/
+*.csv
+*.pdf
+*.html
+
+# venv and env
+.venv
+.env
