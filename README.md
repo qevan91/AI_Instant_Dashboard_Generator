@@ -2,7 +2,7 @@
 
 Automate your reporting with AI. Transform raw CSV data into premium, professional PDF executive dashboards in seconds.
 
-<a href="https://github.com/qevan91/AI-Instant-Dashboard-Generator/issues">Report a Bug</a> • <a href="https://github.com/qevan91/AI-Instant-Dashboard-Generator/issues">Suggest an Improvement</a>
+<a href="https://github.com/qevan91/AI_Instant_Dashboard_Generator/issues">Report a Bug</a> • <a href="https://github.com/qevan91/AI_Instant_Dashboard_Generator/issues">Suggest an Improvement</a>
 
 ---
 
