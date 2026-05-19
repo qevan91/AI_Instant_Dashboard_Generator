@@ -1,5 +1,12 @@
 # AI Instant Dashboard Generator
 
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) 
+[![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/) 
+[![Google Gemini](https://img.shields.io/badge/Google_Gemini-2.5_Flash-1A73E8?style=flat-square&logo=google-gemini&logoColor=white)](https://github.com/google/generative-ai-python)
+[![Mistral AI](https://img.shields.io/badge/Mistral_AI-Large_Latest-FF6C37?style=flat-square&logo=mistralai&logoColor=white)](https://github.com/mistralai/client-python) 
+[![xhtml2pdf](https://img.shields.io/badge/xhtml2pdf-PDF_Compiler-006699?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/xhtml2pdf/xhtml2pdf)
+
+
 Automate your reporting with AI. Transform raw CSV data into premium, professional PDF executive dashboards in seconds.
 
 <a href="https://github.com/qevan91/AI_Instant_Dashboard_Generator/issues">Report a Bug</a> • <a href="https://github.com/qevan91/AI_Instant_Dashboard_Generator/issues">Suggest an Improvement</a>
@@ -11,15 +18,6 @@ Automate your reporting with AI. Transform raw CSV data into premium, profession
 This project aims to simplify and accelerate the creation of web and PDF dashboards using AI. It serves as an accessible data reporting solution without the overhead of enterprise-level Business Intelligence tools.
 
 Leveraging the power of cutting-edge LLMs (Large Language Models), the application seamlessly parses complex datasets and structures them into strategic, print-ready executive reports.
-
-### Built With
-
-
-[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) 
-[![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/) 
-[![Google Gemini](https://img.shields.io/badge/Google_Gemini-2.5_Flash-1A73E8?style=flat-square&logo=google-gemini&logoColor=white)](https://github.com/google/generative-ai-python)
-[![Mistral AI](https://img.shields.io/badge/Mistral_AI-Large_Latest-FF6C37?style=flat-square&logo=mistralai&logoColor=white)](https://github.com/mistralai/client-python) 
-[![xhtml2pdf](https://img.shields.io/badge/xhtml2pdf-PDF_Compiler-006699?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/xhtml2pdf/xhtml2pdf)
 
 
 ---
